@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Pruebas</title>
+        <title>Pruebas ROSA</title>
     </head>
     <body>
         <?php
