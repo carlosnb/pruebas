@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
+        // put your code here -- Manuel 01-03-2019
         ?>
     </body>
 </html>
